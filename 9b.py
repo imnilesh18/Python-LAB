@@ -20,7 +20,7 @@ for row in range(1, sheet.max_row + 1):
 # now writing/appending values - Use loop to add more
 row += 1
 USN = input("Enter USN : ")
-Name = input("Eter Name : ")
+Name = input("Enter Name : ")
 IAT1 = int(input("Enter marks in IAT1 : "))
 IAT2 = int(input("Enter marks in IAT2 : "))
 IAT3 = int(input("Enter marks in IAT3 : "))
